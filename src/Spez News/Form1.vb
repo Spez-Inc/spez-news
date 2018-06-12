@@ -1,5 +1,4 @@
 ﻿Imports System.Drawing.Text
-Imports Gecko
 
 Public Class Form1
 
